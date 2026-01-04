@@ -1,8 +1,8 @@
 [package]
-name = "reqwest_cookie_store"
+name = "lreqwest_cookie_store"
 version = "0.9.0" # managed by release.sh
 authors = ["Patrick Fernie <patrick.fernie@gmail.com>"]
-edition = "2021"
+edition = "2024"
 description = "A simple crate providing an implementation of the `reqwest::cookie::CookieStore` trait for `cookie_store::CookieStore`"
 readme = "README.md"
 repository = "https://github.com/pfernie/reqwest_cookie_store"
